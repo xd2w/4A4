@@ -1,0 +1,17 @@
+**/.DS_Store
+**/*.pdf
+**/*.html
+**/*.md
+**/*.aux
+**/*.log
+**/*.out
+**/*.fls
+**/*.fdb_latexmk
+**/*.synctex.gz
+**/*.synctex(busy)
+**/*.asv
+
+.env/
+**/.ipynb_checkpoints/
+**/.vscode/
+**/.obsidian/
