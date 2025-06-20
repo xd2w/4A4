@@ -4,6 +4,7 @@
 **/*.md
 **/*.aux
 **/*.log
+!.git/**/*.log
 **/*.out
 **/*.fls
 **/*.fdb_latexmk
